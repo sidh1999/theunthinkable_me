@@ -5,6 +5,9 @@ import os
 import random
 import re
 import sys
+import keras 
+import numpy
+import pandas
 
 # Complete the viralAdvertising function below.
 def viralAdvertising(n):
