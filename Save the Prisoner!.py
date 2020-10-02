@@ -1,5 +1,6 @@
 #!/bin/python3
-
+import numpy 
+import keras
 import math
 import os
 import random
